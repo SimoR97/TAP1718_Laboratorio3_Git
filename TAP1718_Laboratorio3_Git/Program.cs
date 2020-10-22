@@ -7,6 +7,7 @@ namespace TAP1718_Laboratorio3_Git
         public static void Main(string[] args)
         {
             Console.WriteLine("Se leggete questo messaggio , NO");
+            Console.WriteLine("Se leggete questo messaggio , SI");
         }
     }
 }
